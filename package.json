@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-material-design",
+  "version": "0.0.1",
+  "description": "React Native Template Material Design",
+  "repository": "git@github.com:azuy212/react-native-template-material-design.git",
+  "author": "Ali Zain Ul Yasoob <a.zain212@gmail.com>",
+  "license": "MIT"
+}
